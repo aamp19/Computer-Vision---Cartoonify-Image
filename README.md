@@ -1,4 +1,4 @@
-# Computer-Vision---Cartoonify-Image
+
 <h1>Computer Vision - Cartoonify-Image </h1>
 
 <h2>Computer Vision Project that Cartoonifies any image that is inputted </h2>
